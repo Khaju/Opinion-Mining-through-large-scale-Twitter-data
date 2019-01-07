@@ -6,10 +6,10 @@ except ImportError:
 # Import the tweepy library
 import tweepy
 
-ACCESS_TOKEN = "128864669-T6Rg6uUar2URqsJy72O75qtwvdRfTidgfe8S0omJ"
-ACCESS_SECRET = "wS9HXRVrVK1R5yKrjPPIqhCOMp7mIo0yfAWpMFp0YIBKK"
-CONSUMER_KEY =  "s1HmRZdGehQQtgzZPVWAO4eVA"
-CONSUMER_SECRET = "9uXzmO5wC4guGBO8TY68bPz5jUKhW7DP0EsNcd0DWP0pHFwiqi"
+ACCESS_TOKEN = 
+ACCESS_SECRET = 
+CONSUMER_KEY =  
+CONSUMER_SECRET = 
 
 # Setup tweepy to authenticate with Twitter credentials:
 
